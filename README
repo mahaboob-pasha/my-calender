@@ -1,3 +1,6 @@
+How to run project:
+run app/main.py FILE
+
 Prerequisite:
     1. Postgres installed
     2. Create test DB with user=postgres, pwd=mpasha in localhost:5432
