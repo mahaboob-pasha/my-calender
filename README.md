@@ -1,6 +1,7 @@
 # Harbor Take Home Project
 
 Welcome to the Harbor take home project. We hope this is a good opportunity for you to showcase your skills.
+Refer other README file for prerequisite.
 
 ## The Challenge
 
